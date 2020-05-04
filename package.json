@@ -1,0 +1,17 @@
+{
+  "name": "puppeteer-demo",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "mocha --timeout 0 tests/"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.1",
+    "puppeteer": "^2.1.1",
+    "puppeteer-firefox": "^0.5.1"
+  }
+}
