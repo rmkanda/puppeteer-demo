@@ -16,7 +16,7 @@ describe("Lighthouse tests", () => {
     });
     console.log(lighthouseResult);
 
-    expect(lighthouseResult.lhr.categories["seo"].score).equals(0.92);
+    expect(lighthouseResult.lhr.categories["seo"].score).equals(0.93);
 
     const first_contentful_paint =
       lighthouseResult.lhr.audits["first-contentful-paint"].displayValue;
