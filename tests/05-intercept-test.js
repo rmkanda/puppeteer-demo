@@ -12,7 +12,7 @@ describe("Intercepting network requests", () => {
         request.url() === "https://v8.dev/_img/v8.svg"
       ) {
         request.abort();
-        request.respond();
+        // request.respond();
       } else request.continue();
     });
     await page.goto("https://v8.dev/");

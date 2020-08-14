@@ -10,5 +10,6 @@ describe("Lang tests", () => {
       "Accept-Language": "es",
     });
     await page.goto("https://google.com");
+    await browser.close();
   });
 });
