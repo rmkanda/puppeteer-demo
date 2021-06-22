@@ -9,7 +9,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "backstopjs": "^5.0.4",
+    "backstopjs": "^5.3.4",
     "chai": "^4.3.4",
     "chalk": "^4.1.1",
     "lighthouse": "^8.0.0",
