@@ -13,7 +13,7 @@
     "chai": "^4.3.4",
     "chalk": "^4.1.1",
     "lighthouse": "^8.0.0",
-    "mocha": "^8.1.1",
+    "mocha": "^9.2.0",
     "puppeteer": "^10.0.0",
     "puppeteer-firefox": "^0.5.1"
   }
