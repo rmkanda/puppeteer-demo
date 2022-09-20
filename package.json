@@ -14,7 +14,7 @@
     "chalk": "^4.1.1",
     "lighthouse": "^8.0.0",
     "mocha": "^8.1.1",
-    "puppeteer": "^10.0.0",
+    "puppeteer": "^18.0.2",
     "puppeteer-firefox": "^0.5.1"
   }
 }
